@@ -2,5 +2,5 @@
 
 * OOP
 * fastAPI
-* flask
 * pandas, numpy
+* other backend related stuffs
