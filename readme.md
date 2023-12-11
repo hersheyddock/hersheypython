@@ -3,5 +3,5 @@
 * OOP
 * algorithm
 * fastAPI
-* pandas, numpy
+* data handling (pandas, numpy)
 * other backend related stuffs
