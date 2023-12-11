@@ -2,6 +2,6 @@
 
 * OOP
 * algorithm
-* fastAPI, flask
+* Web framework : fastAPI, flask
 * data handling (pandas, numpy)
 * other backend related stuffs
